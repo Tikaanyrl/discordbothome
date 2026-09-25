@@ -1,0 +1,10 @@
+env
+.env
+*.env
+user_*.json
+private/
+.local/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
